@@ -1,4 +1,6 @@
-# AssignSampleIDs
+# usqID
+
+<img src="man/figures/logo.png" align="right" height="280" alt="usqID logo" />
 
 [![R-CMD-check](https://github.com/mattssca/assign_sample_id/actions/workflows/main.yml/badge.svg)](https://github.com/mattssca/assign_sample_id/actions/workflows/main.yml)
 
